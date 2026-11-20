@@ -1,0 +1,140 @@
+Unnamed: 0,species,locomotion,fly_detail,class,order,family,genus,movement,common_name,median_body_length_cm
+0,Ciconia ciconia,FLY,WADING,Aves,Ciconiiformes,Ciconiidae,Ciconia,FLY,White stork,110.0
+1,Thalassoica antarctica,FLY,SEABIRD,Aves,Procellariiformes,Procellariidae,Thalassoica,FLY,Antarctic petrel,45.0
+2,Morus bassanus,FLY,,Aves,Suliformes,Sulidae,Morus,FLY,Northern gannet,92.0
+3,Haliaeetus leucocephalus,,,Aves,Accipitriformes,Accipitridae,Haliaeetus,FLY,Bald eagle,85.0
+4,Vulpes lagopus,,,Mammalia,Carnivora,Canidae,Vulpes,WALK,Arctic fox,60.0
+5,Somateria mollissima,FLY,WATERFOWL,Aves,Anseriformes,Anatidae,Somateria,FLY,Common Eider,63.0
+6,Melanitta fusca,FLY,WATERFOWL,Aves,Anseriformes,Anatidae,Melanitta,FLY,Velvet Scoter,56.0
+7,Cygnus cygnus,,,Aves,Anseriformes,Anatidae,Cygnus,FLY,Whooper swan,145.0
+8,Larus smithsonianus,FLY,SEABIRD,Aves,Charadriiformes,Laridae,Larus,FLY,American Herring Gull,62.0
+9,Cathartes aura,FLY,RAPTOR,Aves,Cathartiformes,Cathartidae,Cathartes,FLY,Turkey Vulture,69.0
+10,Coragyps atratus,FLY,RAPTOR,Aves,Cathartiformes,Cathartidae,Coragyps,FLY,Black Vulture,61.0
+11,Lepus europaeus,,,Mammalia,Lagomorpha,Leporidae,Lepus,WALK,European hare,60.0
+12,Falco naumanni,FLY,RAPTOR,Aves,Falconiformes,Falconidae,Falco,FLY,Lesser Kestrel,31.0
+13,Tyto furcata,FLY,RAPTOR,Aves,Strigiformes,Tytonidae,Tyto,FLY,American Barn Owl,38.0
+14,Anthropoides virgo,FLY,WADING,Aves,Gruiformes,Gruidae,Anthropoides,FLY,Demoiselle Crane,95.0
+15,Grus vipio,FLY,WADING,Aves,Gruiformes,Gruidae,Grus,FLY,White-naped Crane,135.0
+16,Chroicocephalus ridibundus,,,Aves,Charadriiformes,Laridae,Chroicocephalus,FLY,Black-headed gull,39.0
+17,Hydroprogne caspia,FLY,SEABIRD,Aves,Charadriiformes,Laridae,Hydroprogne,FLY,Caspian Tern,53.0
+18,Aquila chrysaetos,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Aquila,FLY,Golden Eagle,85.0
+19,Wallabia bicolor,WALK,,Mammalia,Diprotodontia,Macropodidae,Wallabia,WALK,Swamp wallaby,80.0
+20,Felis catus,WALK,,Mammalia,Carnivora,Felidae,Felis,WALK,Cat,48.0
+21,Columba livia,FLY,,Aves,Columbiformes,Columbidae,Columba,FLY,Domestic pigeon,33.0
+22,Asio flammeus,FLY,RAPTOR,Aves,Strigiformes,Strigidae,Asio,FLY,Short-eared owl,38.0
+23,Pandion haliaetus,FLY,RAPTOR,Aves,Accipitriformes,Pandionidae,Pandion,FLY,Osprey,58.0
+24,Falco peregrinus,,,Aves,Falconiformes,Falconidae,Falco,FLY,Peregrine falcon,45.0
+25,Panthera leo,WALK,,Mammalia,Carnivora,Felidae,Panthera,WALK,Lion,190.0
+26,Larus argentatus,FLY,SEABIRD,Aves,Charadriiformes,Laridae,Larus,FLY,Herring gull,62.0
+27,Phalcoboenus australis,FLY,,Aves,Falconiformes,Falconidae,Phalcoboenus,FLY,Striated carcara,60.0
+28,Grus grus,FLY,WADING,Aves,Gruiformes,Gruidae,Grus,FLY,Common crane,120.0
+29,Pygoscelis adeliae,SWIM,,Aves,Sphenisciformes,Spheniscidae,Pygoscelis,SWIM,Adelie penguin,70.0
+30,Struthio camelus,WALK,,Aves,Struthioniformes,Struthionidae,Struthio,WALK,Common ostrich,210.0
+31,Anser albifrons,FLY,,Aves,Anseriformes,Anatidae,Anser,FLY,Greater white-fronted goose,68.0
+32,Canis latrans,,,Mammalia,Carnivora,Canidae,Canis,WALK,Coyote,110.0
+33,Grus antigone,,,Aves,Gruiformes,Gruidae,Grus,FLY,Sarus crane,170.0
+34,Canis aureus,,,Mammalia,Carnivora,Canidae,Canis,WALK,Golden jackal,85.0
+35,Potos flavus,WALK,,Mammalia,Carnivora,Procyonidae,Potos,WALK,Kinkajou,52.0
+36,Nasua narica,WALK,,Mammalia,Carnivora,Procyonidae,Nasua,WALK,White-nosed coati,60.0
+37,Cebus capucinus,WALK,,Mammalia,Primates,Cebidae,Cebus,WALK,Colombian white-faced capuchin,42.0
+38,Ateles geoffroyi,WALK,,Mammalia,Primates,Atelidae,Ateles,WALK,Geoffroy's spider monkey,50.0
+39,Pecari tajacu,WALK,,Mammalia,Artiodactyla,Tayassuidae,Pecari,WALK,Collared peccary,95.0
+40,Haematopus ostralegus,,,Aves,Charadriiformes,Haematopodidae,Haematopus,FLY,Eurasian oystercatcher,43.0
+41,Mergus merganser,FLY,WATERFOWL,Aves,Anseriformes,Anatidae,Mergus,FLY,Common merganser,63.0
+42,Odobenus rosmarus,,,Mammalia,Carnivora,Odobenidae,Odobenus,SWIM,Walrus,300.0
+43,Phalacrocorax carbo,,,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,FLY,Great cormorant,90.0
+44,Phalacrocorax penicillatus,,,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,FLY,Brandt's cormorant,75.0
+45,Tapirus terrestris,,,Mammalia,Perissodactyla,Tapiridae,Tapirus,WALK,South American tapir,220.0
+47,Prionailurus viverrinus,,,Mammalia,Carnivora,Felidae,Prionailurus,SWIM,Fishing cat,75.0
+48,Alces alces,WALK,,Mammalia,Artiodactyla,Cervidae,Alces,WALK,Moose,270.0
+49,Connochaetes taurinus,WALK,,Mammalia,Artiodactyla,Bovidae,Connochaetes,WALK,Blue wildebeest,200.0
+50,Ursus americanus,WALK,,Mammalia,Carnivora,Ursidae,Ursus,WALK,American black bear,160.0
+51,Pelecanus occidentalis,FLY,SEABIRD,Aves,Pelecaniformes,Pelecanidae,Pelecanus,FLY,Brown pelican,120.0
+52,Ardea alba,,,Aves,Pelecaniformes,Ardeidae,Ardea,FLY,Great egret,95.0
+53,Loxodonta cyclotis,WALK,,Mammalia,Proboscidea,Elephantidae,Loxodonta,WALK,African forest elephant,250.0
+54,Milvus milvus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Milvus,FLY,Red kite,63.0
+55,Sarcoramphus papa,,,Aves,Cathartiformes,Cathartidae,Sarcoramphus,FLY,King vulture,75.0
+57,Bassaricyon alleni,,,Mammalia,Carnivora,Procyonidae,Bassaricyon,WALK,Allen's olingo,42.0
+58,Rupornis magnirostris,,,Aves,Accipitriformes,Accipitridae,Rupornis,FLY,Roadside hawk,40.0
+59,Sapajus macrocephalus,,,Mammalia,Primates,Cebidae,Sapajus,WALK,Large-headed capuchin,45.0
+60,Eira barbara,,,Mammalia,Carnivora,Mustelidae,Eira,WALK,Tayra,65.0
+61,Leopardus pardalis,,,Mammalia,Carnivora,Felidae,Leopardus,WALK,Ocelot,90.0
+62,Scolopax minor,,,Aves,Charadriiformes,Scolopacidae,Scolopax,FLY,American woodcock,28.0
+63,Ichthyaetus melanocephalus,FLY,SEABIRD,Aves,Charadriiformes,Laridae,Ichthyaetus,FLY,Mediterranean gull,39.0
+64,Buteo plagiatus,,,Aves,Accipitriformes,Accipitridae,Buteo,FLY,Gray-lined hawk,45.0
+65,Papio hamadryas,,,Mammalia,Primates,Cercopithecidae,Papio,WALK,Hamadryas baboon,70.0
+66,Caracal caracal,,,Mammalia,Carnivora,Felidae,Caracal,WALK,Caracal,75.0
+67,Buceros bicornis,FLY,,Aves,Bucerotiformes,Bucerotidae,Buceros,FLY,Great hornbill,110.0
+68,Rhyticeros undulatus,FLY,,Aves,Bucerotiformes,Bucerotidae,Rhyticeros,FLY,Wreathed hornbill,90.0
+69,Larus fuscus,FLY,SEABIRD,Aves,Charadriiformes,Laridae,Larus,FLY,Lesser black-backed gull,55.0
+70,Numenius arquata,FLY,,Aves,Charadriiformes,Scolopacidae,Numenius,FLY,Eurasian curlew,58.0
+71,Ichthyaetus audouinii,FLY,SEABIRD,Aves,Charadriiformes,Laridae,Ichthyaetus,FLY,Andouin’s gull,48.0
+72,Aquila nipalensis,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Aquila,FLY,Steppe eagle,75.0
+73,Canis lupus,WALK,,Mammalia,Carnivora,Canidae,Canis,WALK,Gray wolf,130.0
+74,Pernis apivorus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Pernis,FLY,European honey buzzard,57.0
+75,Astur atricapillus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Astur,FLY,American goshawk,58.0
+76,Mycteria americana,FLY,WADING,Aves,Ciconiiformes,Ciconiidae,Mycteria,FLY,Wood stork,100.0
+77,Branta canadensis,,,Aves,Anseriformes,Anatidae,Branta,FLY,Canada goose,95.0
+78,Anas platyrhynchos,,,Aves,Anseriformes,Anatidae,Anas,FLY,Mallard,58.0
+79,Chen caerulescens,,,Aves,Anseriformes,Anatidae,Chen,FLY,Snow goose,75.0
+80,Pelecanus onocrotalus,,,Aves,Pelecaniformes,Pelecanidae,Pelecanus,FLY,Great white pelican,150.0
+81,Branta leucopsis,FLY,WATERFOWL,Aves,Anseriformes,Anatidae,Branta,FLY,Barnacle goose,63.0
+82,Anser anser,FLY,WATERFOWL,Aves,Anseriformes,Anatidae,Anser,FLY,Greylag goose,84.0
+83,Larus armenicus,FLY,SEABIRD,Aves,Charadriiformes,Laridae,Larus,FLY,Armenian gull,58.0
+84,Aquila pomarina,,,Aves,Accipitriformes,Accipitridae,Aquila,FLY,Lesser spotted eagle,60.0
+85,Rangifer tarandus,,,Mammalia,Artiodactyla,Cervidae,Rangifer,WALK,Reindeer,180.0
+86,Gyps africanus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Gyps,FLY,White-backed vulture,95.0
+87,Torgos tracheliotus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Torgos,FLY,Lappet-faced vulture,105.0
+88,Creagrus furcatus,FLY,SEABIRD,Aves,Charadriiformes,Laridae,Creagrus,FLY,Swallow-tailed gull,55.0
+89,Lynx rufus,WALK,,Mammalia,Carnivora,Felidae,Lynx,WALK,Bobcat,85.0
+90,Pekania pennanti,,,Mammalia,Carnivora,Mustelidae,Pekania,WALK,Fisher,60.0
+91,Calonectris diomedea,,,Aves,Procellariiformes,Procellariidae,Calonectris,FLY,Scopoli's shearwater,50.0
+92,Branta bernicla,,,Aves,Anseriformes,Anatidae,Branta,FLY,Brant,60.0
+93,Sula variegata,FLY,,Aves,Suliformes,Sulidae,Sula,FLY,Peruvian booby,75.0
+94,Antigone canadensis,FLY,WADING,Aves,Gruiformes,Gruidae,Antigone,FLY,Sandhill crane,120.0
+95,Buteo swainsoni,,,Aves,Accipitriformes,Accipitridae,Buteo,FLY,Swainson's hawk,52.0
+96,Synthliboramphus antiquus,,,Aves,Charadriiformes,Alcidae,Synthliboramphus,FLY,Ancient murrelet,25.0
+97,Necrosyrtes monachus,,,Aves,Accipitriformes,Accipitridae,Necrosyrtes,FLY,Hooded vulture,65.0
+98,Grus nigricollis,,,Aves,Gruiformes,Gruidae,Grus,FLY,Black-necked crane,130.0
+99,Trichechus manatus,SWIM,,Mammalia,Sirenia,Trichechidae,Trichechus,SWIM,West Indian manatee,300.0
+100,Sus scrofa,WALK,,Mammalia,Artiodactyla,Suidae,Sus,WALK,Wild boar,150.0
+101,Buteo buteo,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Buteo,FLY,Common buzzard,53.0
+102,Leucocarbo bougainvillii,FLY,WATERFOWL,Aves,Suliformes,Phalacrocoracidae,Leucocarbo,FLY,Guanay cormorant,76.0
+103,Larus hyperboreus,,,Aves,Charadriiformes,Laridae,Larus,FLY,Glaucous gull,70.0
+104,Corvus brachyrhynchos,FLY,,Aves,Passeriformes,Corvidae,Corvus,FLY,American crow,45.0
+105,Eidolon helvum,,,Mammalia,Chiroptera,Pteropodidae,Eidolon,WALK,Straw-colored fruit bat,20.0
+106,Cervus elaphus,WALK,,Mammalia,Artiodactyla,Cervidae,Cervus,WALK,Red deer,220.0
+107,Numenius americanus,,,Aves,Charadriiformes,Scolopacidae,Numenius,FLY,Long-billed curlew,60.0
+108,Canis mesomelas,WALK,,Mammalia,Carnivora,Canidae,Canis,WALK,Black-backed jackal,75.0
+109,Loxodonta africana,WALK,,Mammalia,Proboscidea,Elephantidae,Loxodonta,WALK,African bush elephant,320.0
+110,Antidorcas marsupialis,,,Mammalia,Artiodactyla,Bovidae,Antidorcas,WALK,Springbok,120.0
+111,Equus quagga,,,Mammalia,Perissodactyla,Equidae,Equus,WALK,Plains zebra,230.0
+112,Phoebastria irrorata,,,Aves,Procellariiformes,Diomedeidae,Phoebastria,FLY,Waved albatross,90.0
+113,Syncerus caffer,WALK,,Mammalia,Artiodactyla,Bovidae,Syncerus,WALK,African buffalo,280.0
+114,Chelonoidis hoodensis,,,Reptilia,Testudines,Testudinidae,Chelonoidis,WALK,Hood Island giant tortoise,100.0
+115,Chelonoidis porteri,,,Reptilia,Testudines,Testudinidae,Chelonoidis,WALK,Pinzón giant tortoise,100.0
+116,Zalophus californianus,,,Mammalia,Carnivora,Otariidae,Zalophus,SWIM,California sea lion,200.0
+117,Mirounga angustirostris,,,Mammalia,Carnivora,Phocidae,Mirounga,SWIM,Northern elephant seal,350.0
+118,Buteo rufinus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Buteo,FLY,Long-legged buzzard,60.0
+119,Circaetus gallicus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Circaetus,FLY,Short-toed snake eagle,67.0
+120,Anser fabalis,FLY,WATERFOWL,Aves,Anseriformes,Anatidae,Anser,FLY,Bean goose,78.0
+121,Milvus migrans,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Milvus,FLY,Black kite,55.0
+122,Martes pennanti,,,Mammalia,Carnivora,Mustelidae,Martes,WALK,Fisher,60.0
+123,Platalea leucorodia,FLY,SEABIRD,Aves,Pelecaniformes,Threskiornithidae,Platalea,FLY,Eurasian spoonbill,88.0
+124,Puffinus puffinus,FLY,SEABIRD,Aves,Procellariiformes,Procellariidae,Puffinus,FLY,Manx shearwater,34.0
+125,Odocoileus virginianus,WALK,,Mammalia,Artiodactyla,Cervidae,Odocoileus,WALK,White-tailed deer,180.0
+126,Anser brachyrhynchus,FLY,WATERFOWL,Aves,Anseriformes,Anatidae,Anser,FLY,Pink-footed goose,65.0
+127,Circus aeruginosus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Circus,FLY,Western marsh harrier,52.0
+128,Tockus deckeni,FLY,,Aves,Bucerotiformes,Bucerotidae,Tockus,FLY,Von der Decken's hornbill,40.0
+129,Geronticus eremita,,,Aves,Pelecaniformes,Threskiornithidae,Geronticus,FLY,Northern bald ibis,80.0
+130,Calonectris borealis,,,Aves,Procellariiformes,Procellariidae,Calonectris,FLY,Cory's shearwater,50.0
+131,Vanellus vanellus,FLY,,Aves,Charadriiformes,Charadriidae,Vanellus,FLY,Northern lapwing,31.0
+132,Testudinidae,WALK,,Reptilia,Testudines,Testudinidae,,WALK,Tortoise,30.0
+133,Circus pygargus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Circus,FLY,Montagu's harrier,45.0
+134,Circus cyaneus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Circus,FLY,Hen harrier,46.0
+135,Terathopius ecaudatus,,,Aves,Accipitriformes,Accipitridae,Terathopius,FLY,Bateleur,60.0
+136,Trigonoceps occipitalis,,,Aves,Accipitriformes,Accipitridae,Trigonoceps,FLY,White-headed vulture,80.0
+137,Aquila rapax,,,Aves,Accipitriformes,Accipitridae,Aquila,FLY,Tawny eagle,70.0
+138,Streptopelia turtur,FLY,,Aves,Columbiformes,Columbidae,Streptopelia,FLY,European turtle dove,28.0
+139,Anas penelope,FLY,,Aves,Anseriformes,Anatidae,Anas,FLY,Eurasian wigeon,48.0
+140,Gyps fulvus,FLY,RAPTOR,Aves,Accipitriformes,Accipitridae,Gyps,FLY,Eurasian griffon vulture,98.0

@@ -1,0 +1,177 @@
+species,common_name,dataset,movement,individual,median_speed,no_stops,1_9_stops,10+_stops,no_scales,yes_scales
+Alces alces,Moose,2548892515,WALK,24,0.00328892076920325,0,0,24,0,24
+Anas penelope,Eurasian wigeon,1841261165,FLY,32,0.0106572738718644,0,0,32,0,32
+Anas platyrhynchos,Mallard,236953686,FLY,63,0.0066461635033964,0,3,60,2,61
+Anas platyrhynchos,Mallard,1509697502,FLY,10,0.0144492279335175,0,2,8,1,9
+Anser albifrons,Greater white-fronted goose,133992043,FLY,44,0.04965194554002395,1,16,27,7,37
+Anser albifrons,Greater white-fronted goose,1904388965,FLY,48,0.016681060986391147,2,5,41,4,44
+Anser albifrons,Greater white-fronted goose,2290252202,FLY,91,0.0368853580360622,0,29,62,17,74
+Anser anser,Greylag goose,505156776,FLY,27,0.0171366934653974,0,0,27,0,27
+Anser anser,Greylag goose,1904388965,FLY,28,0.010012612111105351,0,0,28,0,28
+Anser brachyrhynchus,Pink-footed goose,49535504,FLY,11,0.0448468254718879,2,2,7,3,8
+Anser brachyrhynchus,Pink-footed goose,2290252202,FLY,30,0.01097217575292455,0,0,30,0,30
+Anser fabalis,Bean goose,1415844328,FLY,43,0.0250544047462853,0,0,43,0,43
+Anser fabalis,Bean goose,2290252202,FLY,19,0.0689938741183211,0,4,15,3,16
+Anthropoides virgo,Demoiselle Crane,172972156,FLY,14,0.05107838321336215,0,1,13,0,14
+Anthropoides virgo,Demoiselle Crane,496136836,FLY,18,0.0437772027744422,0,8,10,3,15
+Anthropoides virgo,Demoiselle Crane,497091077,FLY,9,0.0247759796781554,0,2,7,2,7
+Anthropoides virgo,Demoiselle Crane,631036041,FLY,11,0.0291047354508597,0,2,9,1,10
+Antidorcas marsupialis,Springbok,259966228,WALK,10,0.041781762331134245,0,0,10,0,10
+Antigone canadensis,Sandhill crane,133810762,FLY,42,0.03178812070591745,1,1,40,2,40
+Aquila chrysaetos,Golden Eagle,2943485,FLY,3,0.2060360830152539,2,0,1,2,1
+Aquila chrysaetos,Golden Eagle,259354593,FLY,27,0.0551171519254287,0,0,27,0,27
+Aquila chrysaetos,Golden Eagle,1958514115,FLY,8,0.0083995775758254,0,1,7,0,8
+Aquila nipalensis,Steppe eagle,5960106361,FLY,13,0.0611174659180454,0,3,10,2,11
+Aquila nipalensis,Steppe eagle,6793037828,FLY,18,0.13589398005687764,0,0,18,0,18
+Aquila pomarina,Lesser spotted eagle,384882516,FLY,1,0.0295399270227768,0,0,1,0,1
+Aquila rapax,Tawny eagle,1941203363,FLY,2,0.11745703222180529,0,0,2,0,2
+Ardea alba,Great egret,8849813,FLY,10,0.009693652994413299,0,1,9,0,10
+Asio flammeus,Short-eared owl,2943485,FLY,5,0.3253716999962498,5,0,0,5,0
+Asio flammeus,Short-eared owl,1278021460,FLY,5,0.0048243252882358,0,1,4,1,4
+Astur atricapillus,American goshawk,1450604622,FLY,6,0.0185140520805812,0,0,6,0,6
+Ateles geoffroyi,Geoffroy's spider monkey,1120749252,WALK,8,0.02753707751279455,0,0,8,0,8
+Branta bernicla,Brant,69724677,FLY,9,0.0418761191566235,0,0,9,0,9
+Branta canadensis,Canada goose,1509697502,FLY,10,0.0200076907765954,0,0,10,0,10
+Branta leucopsis,Barnacle goose,69724677,FLY,6,0.0219553758262073,0,0,6,0,6
+Branta leucopsis,Barnacle goose,1904388965,FLY,63,0.0241048275894299,0,1,62,1,62
+Branta leucopsis,Barnacle goose,2290252202,FLY,63,0.0404073936191672,2,29,32,24,39
+Buceros bicornis,Great hornbill,37350671,FLY,2,0.0427383603741333,0,0,2,1,1
+Buteo buteo,Common buzzard,1278021460,FLY,11,0.0222968869269451,0,0,11,1,10
+Buteo buteo,Common buzzard,1279240095,FLY,8,0.01273267472938055,0,3,5,1,7
+Buteo buteo,Common buzzard,7634109701,FLY,4,0.0219349774581726,0,1,3,1,3
+Buteo plagiatus,Gray-lined hawk,1233933180,FLY,53,0.0170596630610028,0,3,50,8,45
+Buteo rufinus,Long-legged buzzard,34551859,FLY,9,0.0456208298545488,2,1,6,3,6
+Buteo swainsoni,Swainson's hawk,164144882,FLY,6,0.076060249549269,0,2,4,3,3
+Calonectris borealis,Cory's shearwater,10511147,FLY,1,1.360302099752715,1,0,0,1,0
+Canis aureus,Golden jackal,3258977407,WALK,7,0.0197294507925909,0,0,7,1,6
+Canis latrans,Coyote,2946547482,WALK,5,0.1169908158465212,0,0,5,0,5
+Canis lupus,Gray wolf,492444603,WALK,38,0.019268850633033248,1,2,35,3,35
+Canis mesomelas,Black-backed jackal,259966228,WALK,14,0.0036052220253051503,0,0,14,0,14
+Caracal caracal,Caracal,1832666571,WALK,22,0.0145116662444881,0,0,22,0,22
+Cathartes aura,Turkey Vulture,16880941,FLY,19,0.0091219346027852,0,0,19,0,19
+Cathartes aura,Turkey Vulture,217784323,FLY,53,0.0144001314426031,0,1,52,0,53
+Cathartes aura,Turkey Vulture,288396691,FLY,9,0.0078382848992993,0,0,9,0,9
+Cebus capucinus,Colombian white-faced capuchin,1120749252,WALK,8,0.040361450500759205,0,0,8,5,3
+Cervus elaphus,Red deer,897981076,WALK,201,0.0236135956648689,7,38,156,43,158
+Chelonoidis hoodensis,Hood Island giant tortoise,259966228,WALK,4,0.0008615810986196,0,0,4,0,4
+Chelonoidis porteri,Pinzón giant tortoise,259966228,WALK,4,0.0022648104071998,0,0,4,0,4
+Chen caerulescens,Snow goose,1509697502,FLY,68,0.0374025180389587,0,0,68,0,68
+Chroicocephalus ridibundus,Black-headed gull,278258431,FLY,34,0.0663284142189519,0,0,34,0,34
+Ciconia ciconia,White stork,9493881,FLY,17,0.0356944290446693,0,3,14,0,17
+Ciconia ciconia,White stork,10157679,FLY,8,0.013909322371452398,0,2,6,0,8
+Ciconia ciconia,White stork,10449535,FLY,8,0.0052663604899509005,0,3,5,1,7
+Ciconia ciconia,White stork,10596067,FLY,9,0.0291717476980505,0,0,9,0,9
+Circaetus gallicus,Short-toed snake eagle,34551859,FLY,10,0.09944596915248821,0,2,8,2,8
+Circus aeruginosus,Western marsh harrier,604806671,FLY,5,0.0291454606435381,0,0,5,0,5
+Circus aeruginosus,Western marsh harrier,1278021460,FLY,15,0.0310549002378601,2,0,13,2,13
+Circus aeruginosus,Western marsh harrier,1279240095,FLY,3,0.0257524124028953,0,0,3,0,3
+Circus cyaneus,Hen harrier,1278021460,FLY,9,0.0416375797765785,0,0,9,0,9
+Circus pygargus,Montagu's harrier,1278021460,FLY,10,0.06342913079319555,0,0,10,0,10
+Columba livia,Domestic pigeon,1338487915,FLY,14,0.031192507865275002,0,14,0,14,0
+Connochaetes taurinus,Blue wildebeest,208413731,WALK,35,0.0330139380430445,0,0,35,0,35
+Coragyps atratus,Black Vulture,217784323,FLY,9,0.0062790439246838,0,0,9,0,9
+Coragyps atratus,Black Vulture,288396691,FLY,9,0.0054106115846033,0,0,9,0,9
+Corvus brachyrhynchos,American crow,1996035916,FLY,7,0.0397470895463537,0,0,7,2,5
+Cygnus cygnus,Whooper swan,92261778,FLY,9,0.0113173110958407,0,1,8,1,8
+Cygnus cygnus,Whooper swan,182459847,FLY,9,0.015252101758559,0,3,6,1,8
+Equus quagga,Plains zebra,259966228,WALK,9,0.0650861978663128,0,0,9,0,9
+Falco naumanni,Lesser Kestrel,2398637362,FLY,17,0.0689635689122047,0,0,17,0,17
+Falco naumanni,Lesser Kestrel,2961927604,FLY,18,0.04731031361664205,0,2,16,2,16
+Falco peregrinus,Peregrine falcon,2943485,FLY,4,0.7414248979549012,2,2,0,4,0
+Felis catus,Cat,10857031,WALK,10,0.0079803916266088,0,10,0,9,1
+Felis catus,Cat,1728787796,WALK,5,0.0061661381501758,0,5,0,5,0
+Geronticus eremita,Northern bald ibis,626218509,FLY,32,0.04021218300473555,0,2,30,0,32
+Grus antigone,Sarus crane,47450376,FLY,10,0.0186768545345761,1,5,4,2,8
+Grus grus,Common crane,542653863,FLY,13,0.0296051699613619,0,4,9,3,10
+Grus nigricollis,Black-necked crane,4124813,FLY,9,0.0333660098554895,0,0,9,0,9
+Grus vipio,White-naped Crane,233141114,FLY,6,0.01938597962554035,1,0,5,1,5
+Grus vipio,White-naped Crane,497091077,FLY,4,0.027114458914093,0,0,4,0,4
+Gyps africanus,White-backed vulture,2919708,FLY,8,0.00809757889624305,0,0,8,0,8
+Gyps africanus,White-backed vulture,33643212,FLY,2,0.06768112918526514,0,0,2,0,2
+Gyps africanus,White-backed vulture,259966228,FLY,8,0.0115688780559943,0,0,8,0,8
+Gyps fulvus,Eurasian griffon vulture,33643212,FLY,6,0.14184716289489102,0,0,6,0,6
+Haematopus ostralegus,Eurasian oystercatcher,1099562810,FLY,5,0.0347631023658078,0,0,5,0,5
+Haematopus ostralegus,Eurasian oystercatcher,1605797471,FLY,1,0.0198215153884254,0,0,1,0,1
+Haematopus ostralegus,Eurasian oystercatcher,1605798640,FLY,16,0.02135133323093515,0,0,16,0,16
+Haematopus ostralegus,Eurasian oystercatcher,1605799506,FLY,24,0.02671805077095155,0,3,21,2,22
+Haematopus ostralegus,Eurasian oystercatcher,1605803389,FLY,7,0.0165155790808157,0,0,7,0,7
+Haliaeetus leucocephalus,Bald eagle,2943485,FLY,53,0.6872173428669164,32,14,7,45,8
+Haliaeetus leucocephalus,Bald eagle,20873986,FLY,3,0.0641811711280108,0,0,3,1,2
+Hydroprogne caspia,Caspian Tern,1480583194,FLY,24,0.02455296315074785,0,0,24,0,24
+Ichthyaetus audouinii,Andouin’s gull,277815715,FLY,2,0.02873072723826445,0,1,1,1,1
+Ichthyaetus melanocephalus,Mediterranean gull,1609400843,FLY,13,0.105869039153285,0,0,13,0,13
+Larus argentatus,Herring gull,1071134107,FLY,9,0.0351290152476284,0,0,9,0,9
+Larus argentatus,Herring gull,1259686571,FLY,1,0.023613692843589,0,0,1,0,1
+Larus argentatus,Herring gull,2217728245,FLY,104,0.0244966879692558,0,1,103,2,102
+Larus armenicus,Armenian gull,4194049025,FLY,14,0.01905634056462805,0,2,12,1,13
+Larus fuscus,Lesser black-backed gull,1259686571,FLY,40,0.0227888457171031,0,0,40,0,40
+Larus hyperboreus,Glaucous gull,1767692280,FLY,7,0.2411700737684397,2,1,4,2,5
+Larus smithsonianus,American Herring Gull,2944153255,FLY,13,0.1066736813938781,0,0,13,0,13
+Larus smithsonianus,American Herring Gull,9299692009,FLY,13,0.0835602037849961,0,0,13,0,13
+Lepus europaeus,European hare,3133580132,WALK,10,0.0028768214317398504,0,1,9,1,9
+Loxodonta africana,African bush elephant,259966228,WALK,8,0.0922921480841302,0,0,8,0,8
+Loxodonta africana,African bush elephant,736029750,WALK,14,0.0694188788578859,0,0,14,0,14
+Loxodonta cyclotis,African forest elephant,1818825,WALK,34,0.0278344311344089,9,18,7,25,9
+Lynx rufus,Bobcat,1088836380,WALK,4,0.0398243794989085,0,0,4,0,4
+Lynx rufus,Bobcat,5482391833,WALK,8,0.048108703112644,0,0,8,1,7
+Martes pennanti,Fisher,6925808,WALK,1,0.0105524745766742,0,0,1,0,1
+Melanitta fusca,Velvet Scoter,6432602888,FLY,1,0.0557675590164125,0,0,1,0,1
+Milvus milvus,Red kite,501903109,FLY,31,0.049144974480565,0,1,30,1,30
+Milvus milvus,Red kite,3131029654,FLY,12,0.16363556536459656,0,5,7,4,8
+Mirounga angustirostris,Northern elephant seal,259966228,SWIM,15,0.4698973170517592,7,8,0,15,0
+Morus bassanus,Northern gannet,2630711281,FLY,6,0.26087451910080955,0,6,0,6,0
+Mycteria americana,Wood stork,1448377103,FLY,104,0.0110701737118971,0,2,102,0,104
+Nasua narica,White-nosed coati,1120749252,WALK,15,0.0381019223538384,0,0,15,2,13
+Necrosyrtes monachus,Hooded vulture,14671003,FLY,22,0.01029230382910225,2,0,20,2,20
+Numenius americanus,Long-billed curlew,42451582,FLY,91,0.0973403706129862,16,71,4,84,7
+Numenius americanus,Long-billed curlew,1418296656,FLY,29,0.0258472388090574,0,0,29,0,29
+Numenius arquata,Eurasian curlew,1395952585,FLY,20,0.03067438750922345,0,1,19,0,20
+Numenius arquata,Eurasian curlew,1841091905,FLY,6,0.024371485788323002,0,0,6,0,6
+Numenius arquata,Eurasian curlew,4015912608,FLY,7,0.020641224540682,0,0,7,0,7
+Odobenus rosmarus,Walrus,1420256397,SWIM,117,0.4911862903867933,104,13,0,117,0
+Odocoileus virginianus,White-tailed deer,2553108901,WALK,34,0.01202817422975885,0,0,34,0,34
+Pandion haliaetus,Osprey,2943485,FLY,4,1.2436965746682231,4,0,0,4,0
+Panthera leo,Lion,3791354435,WALK,12,0.01462665109553355,0,0,12,0,12
+Panthera leo,Lion,3809257699,WALK,13,0.0125904623019213,0,0,13,0,13
+Papio hamadryas,Hamadryas baboon,177002088,WALK,13,0.1172585989857239,0,13,0,8,5
+Pekania pennanti,Fisher,1088836380,WALK,1,0.0164017561204606,0,0,1,0,1
+Pelecanus occidentalis,Brown pelican,581719332,FLY,3,0.0210301265096893,0,0,3,0,3
+Pelecanus occidentalis,Brown pelican,621703893,FLY,3,0.0210301265096893,0,0,3,0,3
+Pelecanus occidentalis,Brown pelican,2782529952,FLY,6,0.1344803750663704,0,0,6,0,6
+Pelecanus onocrotalus,Great white pelican,914913822,FLY,13,0.0332397301321714,0,10,3,4,9
+Pernis apivorus,European honey buzzard,1035523816,FLY,4,0.03138059963712375,0,0,4,0,4
+Pernis apivorus,European honey buzzard,3859588981,FLY,26,0.02050014503919005,0,0,26,0,26
+Phalacrocorax carbo,Great cormorant,2988309,FLY,8,0.04262654627702965,2,5,1,3,5
+Phalacrocorax penicillatus,Brandt's cormorant,3066962629,FLY,19,0.0171284171846482,0,7,12,4,15
+Phalcoboenus australis,Striated carcara,13978569,FLY,5,0.0167196334341162,0,0,5,0,5
+Phoebastria irrorata,Waved albatross,259966228,FLY,8,0.0019044599285201,0,0,8,0,8
+Platalea leucorodia,Eurasian spoonbill,2313947453,FLY,10,0.0177314987349609,0,0,10,0,10
+Potos flavus,Kinkajou,1120749252,WALK,10,0.027199640865281,0,1,9,5,5
+Prionailurus viverrinus,Fishing cat,2728151646,SWIM,8,0.0114143475453364,0,1,7,1,7
+Puffinus puffinus,Manx shearwater,961039869,FLY,78,0.8457696444988299,75,3,0,78,0
+Rangifer tarandus,Reindeer,2608802883,WALK,110,0.01078080348965555,0,1,109,1,109
+Rhyticeros undulatus,Wreathed hornbill,37350671,FLY,1,0.1861864695556145,0,0,1,1,0
+Rupornis magnirostris,Roadside hawk,2122748764,FLY,1,0.0064544325083698,0,1,0,1,0
+Sarcoramphus papa,King vulture,2122748764,FLY,2,0.035474591278859546,0,2,0,2,0
+Scolopax minor,American woodcock,12170798,FLY,58,0.047343675439406055,27,31,0,56,2
+Somateria mollissima,Common Eider,6432602888,FLY,7,0.0082344008225069,0,3,4,0,7
+Streptopelia turtur,European turtle dove,3413045568,FLY,55,0.0042967176203194,0,0,55,3,52
+Struthio camelus,Common ostrich,1671751878,WALK,10,0.0784331377814434,0,0,10,0,10
+Sus scrofa,Wild boar,2575458863,WALK,8,0.008848452082502449,0,0,8,0,8
+Syncerus caffer,African buffalo,1764627,WALK,6,0.040728298911210103,0,0,6,0,6
+Syncerus caffer,African buffalo,259966228,WALK,5,0.0338767371889654,0,0,5,0,5
+Tapirus terrestris,South American tapir,1907973121,WALK,65,0.0180073327624032,4,27,34,32,33
+Terathopius ecaudatus,Bateleur,1941203363,FLY,2,0.0914075498351787,0,0,2,0,2
+Testudinidae,Tortoise,190490326,WALK,84,0.0015634824269210499,0,7,77,2,82
+Thalassoica antarctica,Antarctic petrel,180290122,FLY,48,2.3701418520975377,47,1,0,48,0
+Tockus deckeni,Von der Decken's hornbill,1087068449,FLY,14,0.016126906943310447,0,2,12,1,13
+Torgos tracheliotus,Lappet-faced vulture,2919708,FLY,3,0.0955175897019536,0,0,3,0,3
+Torgos tracheliotus,Lappet-faced vulture,33643212,FLY,1,0.5349041980729838,0,0,1,0,1
+Trichechus manatus,West Indian manatee,1936932457,SWIM,26,0.024175408072254,0,5,21,4,22
+Trigonoceps occipitalis,White-headed vulture,1941203363,FLY,1,0.0537003642070914,0,0,1,0,1
+Tyto furcata,American Barn Owl,1426277950,FLY,3,0.065526123266823,0,3,0,3,0
+Tyto furcata,American Barn Owl,3578422072,FLY,2,0.02005481507332795,0,2,0,2,0
+Ursus americanus,American black bear,2564825948,WALK,21,0.0077253482170778,0,0,21,0,21
+Vanellus vanellus,Northern lapwing,1448409403,FLY,12,0.014302873334663749,0,0,12,0,12
+Vulpes lagopus,Arctic fox,1241071371,WALK,32,0.16425357504434235,2,0,30,3,29
+Zalophus californianus,California sea lion,259966228,SWIM,14,0.28463149768946827,0,8,6,3,11

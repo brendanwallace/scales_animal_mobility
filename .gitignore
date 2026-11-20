@@ -1,0 +1,6 @@
+.DS_store
+.ipynb_checkpoints
+/data/movebank/events
+/archive
+/data/private
+/scripts/scales_human_mobility
