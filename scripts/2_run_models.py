@@ -21,9 +21,9 @@ FOLDER = "../results/movebank/"
 MAPS_FOLDER = "../results/movebank/maps/"
 
 FILE_SUFFIX = ""
-STOP_RADII = [30]
+STOP_RADII = [10, 30, 90]
 LABEL_SINGLETON = [True]
-DOWNSAMPLE_RATE_MINUTES = [10, 60]
+# DOWNSAMPLE_RATE_MINUTES = [10, 60]
 
 
 SAVE_MAPS = False
@@ -117,6 +117,9 @@ def main():
                     distances_meters = utils.haversine(points[:-1], points[1:])
         
                     speeds_ms = distances_meters / intervals_seconds
+
+                    # compute additional stop radii here.
+
         
                     model_outputs = []
                     for stop_radius in STOP_RADII:

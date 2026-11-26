@@ -235,6 +235,7 @@ class ModelOutput:
     species: str
     individual: str
     stop_radius: float
+    stop_radius_description: str
     label_singleton: bool
     downsample_rate_minutes: float
     median_minutes_between_gps: float
@@ -261,6 +262,7 @@ def run_model_on_individual(
     individual: str,
     downsample_rate_minutes : int = 60,
     stop_radius : int = 30,
+    stop_radius_description : str = "30m",
     label_singleton : bool = True,
 ) -> ModelOutput:
     """
@@ -293,6 +295,7 @@ def run_model_on_individual(
         individual=individual,
         label_singleton=label_singleton,
         stop_radius=stop_radius,
+        stop_radius_description=stop_radius_description,
         downsample_rate_minutes=downsample_rate_minutes,
         median_minutes_between_gps=median_minutes_between_gps(_df),
         mean_minutes_between_gps=mean_minutes_between_gps(_df),
